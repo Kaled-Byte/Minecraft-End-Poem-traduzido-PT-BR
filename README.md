@@ -8,15 +8,7 @@ O End Poem é o texto exibido ao jogador após a derrota do Ender Dragon e a ent
 
 # Estrutura
 
-A estrutura do repositório corresponde à estrutura interna do resource pack:
-
- End Poem PT-BR
-├── assets/
-│   └── minecraft/
-│       └── texts/
-│           └── end.txt
-├── pack.mcmeta
-└── pack.png
+A estrutura do repositório corresponde à estrutura interna do resource pack.
 
 O arquivo end.txt contém o texto traduzido do End Poem.
 
