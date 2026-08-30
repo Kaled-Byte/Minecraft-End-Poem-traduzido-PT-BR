@@ -1,5 +1,3 @@
-# End Poem em Português Brasileiro
-
 # Sobre o projeto
 
 Este repositório contém os arquivos-fonte de um **resource pack para Minecraft: Java Edition** que adiciona uma tradução completa do **End Poem** para o português brasileiro (PT-BR).
